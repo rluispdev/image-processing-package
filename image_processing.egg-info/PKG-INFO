@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: image_processing
+Version: 0.1
+Summary: Image Processing Package Using Skimage
+Home-page: https://github.com/rluispdev/image-processing-package
+Author: rluispdev
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+Requires-Dist: scikit-image>=0.16.1
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # package_name
 
 Description. 
