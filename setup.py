@@ -9,8 +9,8 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
-    version="0.1",
+    name="image-processing-rluispdev",
+    version="0.3",
     author="rluispdev",
     description="Image Processing Package Using Skimage",
     long_description=page_description,

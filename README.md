@@ -1,38 +1,28 @@
-# package_name
 
-Description. 
-The package package_name is used to:
-	Processing:
-	- Historigan matchinhg
-	- structural similary
-	- Resize image:
+The package `image-processing-rluispdev` is used for:
 
-Utils:
-	= Head image 
-	- Save image
-	- Plot image
-	- Plot image
-	- PLot result
-	- Plot histrogram
+## Processing:
+- Histogram matching
+- Structural similarity
+- Image resizing
 
+## Utils:
+- Head image
+- Save image
+- Plot image
+- Plot result
+- Plot histogram
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install `image-processing-rluispdev`.
 
 ```bash
-pip install package_name
-```
+pip install image-processing-rluispdev
 
-## Usage
-
-```python
-from package_name.module1_name import file1_name
-file1_name.my_function()
-```
 
 ## Author
-My_name
+rluispdev
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
