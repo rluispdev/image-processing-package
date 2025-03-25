@@ -10,7 +10,7 @@ with open('requirements.txt', 'r', encoding='utf-8') as f:
 
 setup(
     name="image-processing-rluispdev",
-    version="0.3",
+    version="0.1",
     author="rluispdev",
     description="Image Processing Package Using Skimage",
     long_description=page_description,
